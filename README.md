@@ -16,4 +16,4 @@ $ python3 pseudocode_smali2java.py ruta/del/archivo.smali
 
 renombrar el archivo.smali a archivo.java. Para ello como ejemplo:
 
-$ mv ruta/del/archivo.smali ruta/del/archivo.java
+$ mv sources/ruta/del/archivo.smali sources/ruta/del/archivo.java
