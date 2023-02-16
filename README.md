@@ -6,7 +6,7 @@ en la linea de comandos:
 
 $ pip install openai
 
-$ expor OPENAI_API_KEY=your_openai_api_key
+$ export OPENAI_API_KEY=your_openai_api_key
 
 situar el archivo junto a la carpeta raiz donde se encuentran los archivos smali.
 
